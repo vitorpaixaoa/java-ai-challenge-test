@@ -1,0 +1,8 @@
+com/taller/charges/PaymentProcessor.class
+com/taller/charges/ChargeRequest.class
+com/taller/charges/ChargesService.class
+com/taller/charges/ChargeStore.class
+com/taller/charges/ChargesApplication.class
+com/taller/charges/ChargesController.class
+com/taller/charges/AuditLog.class
+com/taller/charges/Charge.class
